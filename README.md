@@ -125,4 +125,9 @@ Este repo incluye un workflow que valida que has completado las evidencias.
 
 - MITRE ATT&CK: M1051 - Update Software
 - CIS Benchmarks: Disable SMBv1
-- NIST SP 800-40: Guide to Enterprise Patch Management
+- NIST SP 800-40: Guide to Enterprise Patch Management## Uso empresarial
+---
+## Resumen del laboratorio
+Laboratorio 03 de virtualización anidada sobre host 10.10.10.31. ESXi01/ESXi02 (vmk0 192.168.101.101/102 NAT y vmk1 192.168.105.101/102 Host-Only), VCSA 192.168.101.103 y NAS TrueNAS 192.168.105.105. Validado para HA y backup inmutable con NAKIVO.
+
+Autor: Iván Ajenjo Morales | defensa29-svg | L1/L2 ITIL SecOps | Licencia MIT
