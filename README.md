@@ -3,7 +3,7 @@
 
 > Una vez identificada una debilidad mediante escaneos o logs, el equipo de defensa debe ejecutar protocolos de mitigación o remediación directa para cerrar el vector de ataque antes de que sea explotado.
 
-![PATCH](assets/patch.png)
+<img width="1920" height="1280" alt="825340191_1087305000674091_2915732610096019751_n" src="https://github.com/user-attachments/assets/c2602f2b-76d5-4e04-ad01-41cff71c848c" />
 
 ---
 
